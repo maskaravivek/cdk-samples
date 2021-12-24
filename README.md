@@ -1,6 +1,6 @@
 # cdk-samples
 
-Docker + Lambda + Api Gateway
+### Docker + Lambda + Api Gateway
 
 Code: aws-cdk-docker-lambda-api-gateway/
 
