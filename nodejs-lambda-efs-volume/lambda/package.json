@@ -1,0 +1,9 @@
+{
+    "name": "sample-lambda-efs-volume-handler",
+    "version": "0.1.0",
+    "dependencies": {
+        "csv-stringify": "^6.0.5",
+        "fs": "0.0.1-security",
+        "uuid": "^8.3.2"
+    }
+}
